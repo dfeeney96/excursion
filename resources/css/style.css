@@ -1,0 +1,24 @@
+html { 
+    background-color:#0E0E0E;
+}
+
+body {   
+    background-color: #010001;
+    max-width: 75%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    font-weight: normal;
+    text-align: center;
+}
+
+header a {
+    color: aquamarine;
+    font-size: 16px;
+}
